@@ -18,9 +18,9 @@ const packname = process.env.STICKER_PACKNAME || 'ᴘᴇᴀᴄᴇ';
 // 🔹 OWNER SETTINGS
 // Add your number below inside the quotes (No '+' sign)
 // If you have multiple owners, separate them with commas: '2547XXXX,2547YYYY'
-const dev = process.env.DEV || '254769995625';
+const dev = process.env.DEV || '233532871325';
 const owner = dev.split(",");
-const mycode = process.env.CODE || '254';
+const mycode = process.env.CODE || '233';
 const port = process.env.PORT || 8080;
 
 // 🔹 DATABASE
